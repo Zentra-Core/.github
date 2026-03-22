@@ -1,0 +1,29 @@
+# 🌌 Zentra Core | The Future of Private, Modular AI
+
+![Zentra Core Logo](https://zentra-core.github.io/assets/logo.png) 
+*(Nota: sistemeremo questo link al logo tra un attimo)*
+
+Welcome to the official home of **Zentra Core**. We are developing a local-first, modular architecture designed to bring high-level intelligence to private environments.
+
+### 🏛️ Our Mission
+To create a seamless, private, and secure bridge between human intent and machine execution. Zentra Core is built to be the "brain" behind diverse environments—from smart living spaces to autonomous vehicles and advanced robotics.
+
+---
+
+### 🚀 Key Focus Areas
+* **Modular Intelligence:** A "plug-and-play" system where users can add or remove capabilities (Home, Vehicle, Automation).
+* **Privacy by Design:** Everything stays local. Your data, your rules. No mandatory cloud dependency.
+* **Interoperability:** Designed to communicate with diverse hardware, from IoT devices to robotics.
+
+### 🛠️ Project Status: Ground Zero
+Zentra Core is currently in **Active Development (v0.9.4)**. We are focusing on stabilizing the main logic before releasing specialized modules.
+
+---
+
+### 🤝 Join the Evolution
+We believe in open collaboration. Whether you are a developer, a designer, or a visionary, you are welcome at Zentra.
+
+* **Contact:** zentra.core.official@gmail.com
+* **License:** MIT License
+
+> *"The future isn't just automated. It's yours."*
