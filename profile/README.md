@@ -1,7 +1,9 @@
 # 🌌 Zentra Core | The Future of Private, Modular AI
 
-![Zentra Core Logo](https://zentra-core.github.io/assets/logo.png) 
-*(Nota: sistemeremo questo link al logo tra un attimo)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zentra-Core/zentra-core.github.io/main/assets/logo.png" width="400">
+</p>
+
 
 Welcome to the official home of **Zentra Core**. We are developing a local-first, modular architecture designed to bring high-level intelligence to private environments.
 
