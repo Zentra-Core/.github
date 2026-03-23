@@ -24,7 +24,7 @@ Zentra Core is currently in **Active Development (v0.9.4)**. We are focusing on 
 ### 🤝 Join the Evolution
 We believe in open collaboration. Whether you are a developer, a designer, or a visionary, you are welcome at Zentra.
 
-* **Contact:** zentra.core.official@gmail.com
+* **Contact:** zentra.core.systems@gmail.com
 * **License:** MIT License
 
 > *"The future isn't just automated. It's yours."*
